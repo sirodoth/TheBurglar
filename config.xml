@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.theburglarsirodoth.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>The Burglar</name>
+
+  <description>
+      Collect all the treasures.
+  </description>
+
+  <author href="https://build.phonegap.com" email="thodorisagg@gmail.com">
+      SirOdoth
+  </author>
+
+  <icon src="Burglar1.png" />
+
+</widget>
